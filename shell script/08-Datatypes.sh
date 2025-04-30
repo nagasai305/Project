@@ -2,4 +2,4 @@
 
 FRUITES=("APPLE", "BANANA")
 
-echo Fruits: $FRUITES"
+echo "fuits: $FRUITES"
