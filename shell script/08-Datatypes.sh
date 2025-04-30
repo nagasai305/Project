@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-FRUITES=("apples" "bananas" "grapes" "mangos" "kivi" "orange")
+FRUITES=("Apples" "Bananas" "Grapes" "Mangos" "Kivi" "Orange")
 
 echo "First Fruit:${FRUITES[0]}"
 echo "Second Fruit:${FRUITES[1]}"
