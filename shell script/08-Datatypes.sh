@@ -1,5 +1,6 @@
 #!/bin/bash
 
-FRUITES=("APPLE","ANANA")
+FRUITES=("APPLE","BANANA","MANGO")
 
 echo "fuits: $FRUITES"
+
