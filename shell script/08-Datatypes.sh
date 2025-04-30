@@ -9,8 +9,4 @@ echo "Third Fruit:${FRUITES[2]}"
 echo "Fourth Fruit:${FRUITES[3]}"
 echo "Fifth Fruit:${FRUITES[4]}"
 echo "Sixth Fruit:${FRUITES[5]}"
-
-
-
-
-
+echo "Seventh Fruit:${FRUITES[6]}"
