@@ -1,5 +1,5 @@
 #!/bin/bash
 
-FRUITES={"APPLE","BANANA", "MANGO"}
+FRUITES=("APPLE", "BALL")
 
-echo "fruites are $FRUITES"
+echo Fruits: $FRUITES"
