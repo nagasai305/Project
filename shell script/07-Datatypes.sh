@@ -3,4 +3,6 @@
 NUMBER1=100
 NUMBER2=200
 
-echo "addition of Two numbers are: $(($NUMBER1+$NUMBER))"
+SUM=$(($NUMBER1+$NUMBER))
+
+echo "addition of Two numbers are: $SUM"
