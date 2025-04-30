@@ -1,8 +1,9 @@
 #!/bin/bash
 
+
 FRUITES=("apples" "bananas" "grapes" "mangos")
 
-echo "fuits: $FRUITES"
+echo "First Fruit: ${FRUITES[0]}"
 
 
 
